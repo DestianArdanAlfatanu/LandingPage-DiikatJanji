@@ -463,12 +463,12 @@ button:hover {
 }
 
 .footer .cr {
-    font-size: 12px;
+    font-size: 1rem;
     color: #666;
 }
 
 .footer .medsos img {
-    width: 24px;
+    width: 3.5vh;
     margin-left: 10px;
     cursor: pointer;
 }
